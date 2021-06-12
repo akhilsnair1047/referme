@@ -16,6 +16,7 @@
 # Machine Learning Study Material
 ### ML with Tensorflow - <a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV">https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV</a>   
 ### ML  - <a href="https://mega.nz/folder/10pEUSbb#V746YApYP0TNveJkaUVyew">https://mega.nz/folder/10pEUSbb#V746YApYP0TNveJkaUVyew</a>   
+### ML Google Dev  - <a href="https://developers.google.com/machine-learning/crash-course">https://developers.google.com/machine-learning/crash-course</a>   
 
 
 # Web Dev
