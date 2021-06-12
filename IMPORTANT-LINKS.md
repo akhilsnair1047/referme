@@ -4,6 +4,9 @@
 # Job Related
 ### Jobs from Linkedin post - <a href="https://docs.google.com/spreadsheets/u/0/d/1BRIVbFf3PWYL5mxxzBHQGznU81IavMtGvHNLs_HxlXU/htmlview#"> docs.google.com</a>    
 
+# Job Related
+###  Coursera By Panicker - <a href="http://www.pnpanickerfoundation.org/site/scholarship-registration-form">go to link</a>    
+###  Coursera By Commonwealth of learning - <a href="https://col-skillsforwork.org/apply-for-col-skills-for-work-scholarship/">go to link</a>  
 
 # Machine Learning Study Material
 ### ML with Tensorflow - <a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV">https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV</a>   
