@@ -1,5 +1,10 @@
 # Professional Resume
 ## <a href="https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn">https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn</a>    
+# Grow with Google
+## <a href="https://grow.google/intl/en_in/learn-skills/">https://grow.google/intl/en_in/learn-skills/</a>
+
+# IBM CognitiveClass
+## <a href="https://cognitiveclass.ai/learn">https://cognitiveclass.ai/learn</a>
 
 # Job Related
 ### Jobs from Linkedin post - <a href="https://docs.google.com/spreadsheets/u/0/d/1BRIVbFf3PWYL5mxxzBHQGznU81IavMtGvHNLs_HxlXU/htmlview#"> docs.google.com</a>    
