@@ -9,7 +9,7 @@
 # Job Related
 ### Jobs from Linkedin post - <a href="https://docs.google.com/spreadsheets/u/0/d/1BRIVbFf3PWYL5mxxzBHQGznU81IavMtGvHNLs_HxlXU/htmlview#"> docs.google.com</a>    
 
-# Job Related
+# Coursera
 ###  Coursera By Panicker - <a href="http://www.pnpanickerfoundation.org/site/scholarship-registration-form">go to link</a>    
 ###  Coursera By Commonwealth of learning - <a href="https://col-skillsforwork.org/apply-for-col-skills-for-work-scholarship/">go to link</a>  
 
